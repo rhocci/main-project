@@ -1,0 +1,3 @@
+[submodule "submodule-project"]
+	path = submodule-project
+	url = https://github.com/rhocci/submodule-project.git
